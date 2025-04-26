@@ -1,0 +1,1 @@
+token = ("gizli token buraya")
